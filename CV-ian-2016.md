@@ -21,7 +21,7 @@ I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft whe
 
 I'm also a contributor for project Kudu (the portal for SCM for Azure Web Apps). Here's my github account: https://github.com/badescuga but note that I haven't ported my previous projects from bitbucket which was my main repository manager.
 
-I'm also excited about working in other languages/frameworks so if you'll find yourself in need of someone to learn other things, i'd be more than glad to jump on board!
+I'm very excited about working in other languages/frameworks so if you'll find yourself in need of someone to learn other things, i'd be more than glad to jump on board!
 
 ---
 ## Technical Skills
