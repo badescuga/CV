@@ -92,7 +92,7 @@ I learned most importantly how to work under pressure and how to work in a team,
 ---
 
 
-##Education
+## Education
 
 **BS, Computer Science**, University of Bucharest, Department of Mathematics and Computer Science, *2008 – 2011*
 
@@ -115,7 +115,7 @@ agile-project-management, project-management, scaling
 
 ---
 
-##Certifications
+## Certifications
 
 **Cisco Linux IT2**, *2007*
 
