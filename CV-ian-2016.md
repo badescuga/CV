@@ -16,9 +16,7 @@ Afterwards, I went into developing games for Android/iOS/WP. I've worked both na
 
 I also co-founded a San Francisco start-up where I was a full-stack developer/CTO (NodeJS & Swift).
 
-I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar for nodejs/azure web apps for Microsoft. 
-
-I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). Here's my github account: https://github.com/badescuga but note that I haven't ported my previous projects from bitbucket which was my main repository manager.
+I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar on NodeJS/Azure Web Apps for Microsoft. I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). 
 
 I'm very excited about working in other languages/frameworks so if you'll find yourself in need of someone to learn other things, i'd be more than glad to jump on board!
 
