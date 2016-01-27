@@ -10,7 +10,7 @@
 
 I started my career working as a Platform Architect (C# .NET 4) for Alpha Bank where I developed an internal system distributed across the country.
 
-I switched to mobile app development on iOS (Objective-C) & Windows Phone (C#/Silverlight), where I delivered more then a dozen apps to UK/US customers.
+I switched to mobile app development on iOS (Objective-C) & Windows Phone (C#/Silverlight), where I delivered more than a dozen apps to UK/US customers.
 
 Afterwards, I went into developing games for Android/iOS/WP. I've worked both native (C#/XNA & Objective-C/Cocos2D) & cross-platform (C#/Unity3d). Been on Unity3d mostly for the last 4 years. My most recent project is Age of Lords. http://www.ageoflords.com/. It has grossed more than 4 million players on both iOS & Android. I was one of the 2 front-ends on the project, but also liked to mess around in the backend (NodeJS & Pomelo). 
 
