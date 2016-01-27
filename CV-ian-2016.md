@@ -13,9 +13,9 @@ I started my career working as an Platform Architect (C# .NET 4) for Alpha Bank 
 
 I switched to mobile app development on iOS (Objective-C) & Windows Phone (C#/Silverlight), where I delivered more then a dozen apps to UK/US customers.
 
-Afterwards, I went into developing games for Android/iOS/WP. I've worked both native(XNA+C#/ObjC+cocos2D) & cross-platform(unity3d). Been on unity3d mostly for the last 4 years. My most recent project is Age of Lords. http://www.ageoflords.com/. It has grossed more than 4 million players on both iOS & Android. I was one of the 2 front-ends on the project, but also liked to mess around in the backend (nodejs+pomelo). 
+Afterwards, I went into developing games for Android/iOS/WP. I've worked both native (XNA+C#/ObjC+cocos2D) & cross-platform (unity3d). Been on unity3d mostly for the last 4 years. My most recent project is Age of Lords. http://www.ageoflords.com/. It has grossed more than 4 million players on both iOS & Android. I was one of the 2 front-ends on the project, but also liked to mess around in the backend (nodejs+pomelo). 
 
-I also co-founded a San Francisco start-up where I was a full-stack developer(nodejs+swift)/CTO.
+I also co-founded a San Francisco start-up where I was a full-stack developer (nodejs+swift)/CTO.
 
 I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar for nodejs/azure web apps for Microsoft. 
 
@@ -28,7 +28,7 @@ I'm also excited about working in other languages/frameworks so if you'll find y
 **Likes:** c#, swift, python, objective-c, javascript, unity3d, node.js, .net, java, cloud-development, PaaS, raspberry-pi, IoT, game-development, osx, html, agile, scrum, infrastructure, machine-learning, xna, xaml, windows-phone, microsoft-metro, c++, winrt-xaml, iphone, cocos2d-iphone, wpf, silverlight, shader, ruby-on-rails, model-view-controller, android, mono
 
 ---
-##Experience
+## Experience
 
 
 
