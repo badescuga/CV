@@ -16,13 +16,10 @@ Afterwards, I went into developing games for Android/iOS/WP. I've worked both na
 
 I also co-founded a San Francisco start-up where I was a full-stack developer/CTO (NodeJS & Swift).
 
-I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar on NodeJS/Azure Web Apps for Microsoft. I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). 
+I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I helped programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar on NodeJS/Azure Web Apps for Microsoft. I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). 
 
----
-## Technical Skills
-**Likes:** c#, swift, python, objective-c, javascript, unity3d, node.js, .net, java, cloud-development, PaaS, raspberry-pi, IoT, game-development, osx, html, agile, scrum, infrastructure, machine-learning, xna, xaml, windows-phone, microsoft-metro, c++, winrt-xaml, iphone, cocos2d-iphone, wpf, silverlight, shader, ruby-on-rails, model-view-controller, android, mono
+I''m currently working as a Software Engineer 2 @ Microsoft Norway. I'm working in the Office People team and striving to deliver a better people experience cross-product for all Office web products. 
 
----
 ## Experience
 
 
