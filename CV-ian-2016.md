@@ -18,7 +18,7 @@ I also co-founded a San Francisco start-up where I was a full-stack developer/CT
 
 I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I helped programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar on NodeJS/Azure Web Apps for Microsoft. I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). 
 
-I''m currently working as a Software Engineer 2 @ Microsoft Norway. I'm working in the Office People team and striving to deliver a better people experience cross-product for all Office web products. 
+I'm currently working as a Software Engineer 2 @ Microsoft Norway. I'm working in the Office People team and striving to deliver a better people experience cross-product for all Microsoft Office web apps for business and consumer users.
 
 ## Experience
 
