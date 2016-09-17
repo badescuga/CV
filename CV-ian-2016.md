@@ -22,9 +22,15 @@ I'm currently working as a Software Engineer 2 @ Microsoft Norway. I'm working i
 
 ## Experience
 
+**Software Engineer 2**, Microsoft (Norway), *June 2016 – Current*
 
+C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSO
 
-**Azure Developer Support Engineer**, Microsoft (Germany), *July 2015 – Current*
+Working on the Office People team for cross-platform features.
+
+---
+
+**Azure Developer Support Engineer**, Microsoft (Germany), *July 2015 – June 2016*
 
 azure, c#, node.js, virtual-machine, .net, visual-studio, html, javascript, php, python, windows-azure-storage, sql, nosql, azure-documentdb, asp.net
 
