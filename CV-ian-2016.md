@@ -3,8 +3,7 @@
 - 9 Nov 1989
 - badescuga@gmail.com
 - http://www.github.com/badescuga
-- +40724263693 / +4748011153
----------------------
+- Phone number: +40724263693, +4748011153
 
 ## Short CV
 
