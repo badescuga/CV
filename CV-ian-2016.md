@@ -23,9 +23,26 @@ I'm currently working as a Software Engineer 2 @ Microsoft Norway. I'm working i
 
 **Software Engineer 2**, Microsoft (Norway), *June 2016 – Current*
 
-C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSO
+C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSTS, Exchange
 
-Working on the Office People team for cross-platform features.
+As part of the Office People team, I'm working on providing a single people card/profile experience (powered by a single code base) across multiple workloads, including OneDrive for Business, Sharepoint Home, Outlook Web App, Outlook Mobile (Android and iOS) and Cortana (and more to come). Our service motto is "wicked fast" and we target more than 100 million users across workloads.
+
+Among my contributions:
+ - One of the first to join the team, worked on establishing engineering infrastructure
+ - Drove the first prototive
+ - Cotributed to the effort to integrate the new experience into different workloads (mostly Outlook Web App)
+ - Monitored QoS, internal and external escalations, delivered Service Reviews as part of my Shield duties
+ - Strong advocate for consistency and ease of understanding of our code
+ - In charge of rolling the v1 experience WW for Outlook Web App
+ - Integrated alerting across Sharepoint farms for low QoS scenarios
+ - Delivered v2 experience WW for SPHome/ODSP
+ - Delivered fixes and improvements to the backend service
+ - Helped 1st parties onboard new features into our service 
+ - Contributed to other OSS repositories across the organization
+ - Investigated string algorithms for delivering patchable updates
+ - Won "People Choice" Hackathon award
+ - Successfuly applied for US patent for "Context aware driven insights"
+
 
 ---
 
@@ -33,7 +50,7 @@ Working on the Office People team for cross-platform features.
 
 azure, c#, node.js, virtual-machine, .net, visual-studio, html, javascript, php, python, windows-azure-storage, sql, nosql, azure-documentdb, asp.net
 
-I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft (https://github.com/badescuga/NodeJsDemo). I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
+I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft. I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
 
 ---
 
