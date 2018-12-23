@@ -3,46 +3,23 @@
 - 9 Nov 1989
 - badescuga@gmail.com
 - http://www.github.com/badescuga
-- Phone number: +40724263693, +4748011153
-
-## Short CV
-
-I started my career working as a Platform Architect (C# .NET 4) for Alpha Bank where I developed an internal system distributed across the country.
-
-I switched to mobile app development on iOS (Objective-C) & Windows Phone (C#/Silverlight), where I delivered more than a dozen apps to UK/US customers.
-
-Afterwards, I went into developing games for Android/iOS/WP. I've worked both native (C#/XNA & Objective-C/Cocos2D) & cross-platform (C#/Unity3d). Been on Unity3d mostly for the last 4 years. My most recent project is Age of Lords. http://www.ageoflords.com/. It has grossed more than 4 million players on both iOS & Android. I was one of the 2 front-ends on the project, but also liked to mess around in the backend (NodeJS & Pomelo). 
-
-I also co-founded a San Francisco start-up where I was a full-stack developer/CTO (NodeJS & Swift).
-
-I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I helped programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I also made my debut as a speaker as I hosted a webinar on NodeJS/Azure Web Apps for Microsoft. I'm also a contributor for project Kudu (the portal for SCM on Azure Web Apps). 
-
-I'm currently working as a Software Engineer 2 @ Microsoft Norway. I'm working in the Office People team and striving to deliver a better people experience cross-product for all Microsoft Office web apps for business and consumer users.
+- Phone number: +40724263693
 
 ## Experience
 
-**Software Engineer 2**, Microsoft (Norway), *June 2016 – Current*
+**Lead Software Engineer**, Fitbit (Romania), *Nov 2018 - present*
 
-C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSTS, Exchange
+Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
-As part of the Office People team, I'm working on providing a single people card/profile experience (powered by a single code base) across multiple workloads, including OneDrive for Business, Sharepoint Home, Outlook Web App, Outlook Mobile (Android and iOS) and Cortana (and more to come). Our service motto is "wicked fast" and we target more than 100 million users across workloads.
+Worked as Team Lead for 2 undisclosed services/platforms (not released yet). As the projects draw to the release phase, I started the transition to the Fitbit Developer Platform Team, where I work on the SDK, SDK Tools, and services around them.
 
-Among my contributions:
- - One of the first to join the team, worked on establishing engineering infrastructure
- - Drove the first prototive
- - Cotributed to the effort to integrate the new experience into different workloads (mostly Outlook Web App)
- - Monitored QoS, internal and external escalations, delivered Service Reviews as part of my Shield duties
- - Strong advocate for consistency and ease of understanding of our code
- - In charge of rolling the v1 experience WW for Outlook Web App
- - Integrated alerting across Sharepoint farms for low QoS scenarios
- - Delivered v2 experience WW for SPHome/ODSP
- - Delivered fixes and improvements to the backend service
- - Helped 1st parties onboard new features into our service 
- - Contributed to other OSS repositories across the organization
- - Investigated string algorithms for delivering patchable updates
- - Won "People Choice" Hackathon award
- - Successfuly applied for US patent for "Context aware driven insights"
+---
 
+**Software Engineer 2**, Microsoft (Norway), *June 2016 – Nov 2018*
+
+C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSO
+
+Worked on the Office People team for cross-platform features. Provided a single-experince across multiple products (OneDrive, Outlook, Sharepoint, Cortana) for people and org. Our service serve more than 100M people a month.
 
 ---
 
@@ -50,7 +27,7 @@ Among my contributions:
 
 azure, c#, node.js, virtual-machine, .net, visual-studio, html, javascript, php, python, windows-azure-storage, sql, nosql, azure-documentdb, asp.net
 
-I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft. I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
+I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft (https://github.com/badescuga/NodeJsDemo). I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
 
 ---
 
