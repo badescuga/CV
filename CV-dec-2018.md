@@ -21,13 +21,15 @@ C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR
 
 Worked on the Office People team for cross-platform features. Provided a single-experince across multiple products (OneDrive, Outlook, Sharepoint, Cortana) for people and org. Our service serve more than 100M people a month.
 
+*Patents*: https://patents.justia.com/inventor/gabriel-alexandru-badescu 
+
 ---
 
 **Azure Developer Support Engineer**, Microsoft (Germany), *July 2015 – June 2016*
 
 azure, c#, node.js, virtual-machine, .net, visual-studio, html, javascript, php, python, windows-azure-storage, sql, nosql, azure-documentdb, asp.net
 
-I currently work as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft (https://github.com/badescuga/NodeJsDemo). I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
+I worked as an Azure Web Apps Developer Support Engineer @ Microsoft where I help programmers who struggle with implementing solutions in Azure. Here I learned a great deal about service infrastructure and how to manage your application development from start to finish. I have also made my debut as a speaker by hosting a webinar on nodejs/azure web apps for Microsoft (https://github.com/badescuga/NodeJsDemo). I am also a contributor for project Kudu (the portal for SCM for Azure Web Apps).
 
 ---
 
