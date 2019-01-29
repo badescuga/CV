@@ -7,7 +7,7 @@
 
 ## Experience
 
-**Lead Software Engineer**, Fitbit (Romania), *Nov 2018 - present*
+**Lead Software Engineer**, Fitbit (Romania), *Nov 2017 - present*
 
 Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
@@ -15,7 +15,7 @@ Worked as Team Lead for 2 undisclosed services/platforms (not released yet). As 
 
 ---
 
-**Software Engineer 2**, Microsoft (Norway), *June 2016 – Nov 2018*
+**Software Engineer 2**, Microsoft (Norway), *June 2016 – Nov 2017*
 
 C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSO
 
