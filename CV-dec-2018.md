@@ -11,7 +11,8 @@
 
 Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
-Worked as Team Lead for 2 undisclosed services/platforms (not released yet). As the projects draw to the release phase, I started the transition to the Fitbit Developer Platform Team, where I work on the SDK, SDK Tools, and services around them.
+- Worked as Team Lead for 2 undisclosed services/platforms (not released yet). 
+- Now in the Developer Platform Team, where I work on the public SDK, SDK Tools, and services around them.
 
 ---
 
