@@ -12,7 +12,10 @@
 Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
 - Worked as Team Lead for 2 undisclosed services/platforms (not released yet). 
-- Now in the Developer Platform Team, where I work on the public SDK, SDK Tools, and services around them.
+- Now in the Developer Platform Team, where I work on the public SDK, SDK Tools, and services/apps/standards around them.
+- Involved in the hiring process across the company.
+- Part of the Node.JS adoption/onboarding board.
+- Speaker at public events (*Techsylvania June 2019*).
 
 ---
 
