@@ -7,12 +7,16 @@
 
 ## Experience
 
-**Lead Software Engineer**, Fitbit (Romania), *Nov 2017 - present*
+**Site Engineering Lead**, Microsoft (Romania), *Oct 2019 - Present*
+- First hire in the Bucharest Azure Engineering Team. Recruited and built the local team here.
+- Working as an IC on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
+
+**Lead Software Engineer**, Fitbit (Romania), *Nov 2017 - Oct 2019*
 
 Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
-- Worked as Team Lead for 2 undisclosed services/platforms (not released yet). 
-- Now in the Developer Platform Team, where I work on the public SDK, SDK Tools, and services/apps/standards around them.
+- Worked as Team Lead for the games platform.
+- Worked on the Platform Team, where I contributed to the public app SDK, SDK Tools, and services/apps/standards around them.
 - Involved in the hiring process across the company.
 - Part of the Node.JS adoption/onboarding board.
 - Speaker at public events (*Techsylvania June 2019*).
@@ -121,20 +125,13 @@ agile-project-management, project-management, scaling
 
 **Cisco Linux IT2**, *2007*
 
-
-
-
 ---
 
 **Windows 8 development - Microsoft Romania**, *2012*
 
-
-
-
 ---
 
 **Azure Solution Developer - Microsoft**, *2015*
-
 
 ---
 
