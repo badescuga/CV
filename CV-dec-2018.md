@@ -8,8 +8,13 @@
 ## Experience
 
 **Site Engineering Lead**, Microsoft (Romania), *Oct 2019 - Present*
+
+C#, Azure Services, Typescript, React
+
 - First hire in the Bucharest Azure Engineering Team. Recruited and built the local team here.
 - Working as an IC on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
+- Develop and support services for multi-cloud: Microsoft Public, Microsoft Federal.
+- Focused on reusability and extensibility across services, with an accent on quality and standardization.
 
 **Lead Software Engineer**, Fitbit (Romania), *Nov 2017 - Oct 2019*
 
