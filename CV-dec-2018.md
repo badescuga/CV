@@ -11,7 +11,7 @@
 
 C#, Azure Services, Typescript, React
 
-- First hire in the Bucharest Azure Engineering Team. Recruited and built the local team here.
+- First hire in the Bucharest Azure Engineering Team. In charge of recruiting and building the local team here.
 - Working as an IC on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
 - Develop and support services for multi-cloud: Microsoft Public, Microsoft Federal.
 - Focused on reusability and extensibility across services, with an accent on quality and standardization.
@@ -20,8 +20,8 @@ C#, Azure Services, Typescript, React
 
 Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, Linkerd, Thrift, Zookeper, Finagle, Docker, GCP
 
-- Worked as Team Lead for the games platform.
-- Worked on the Platform Team, where I contributed to the public app SDK, SDK Tools, and services/apps/standards around them.
+- Worked as Team Lead for the Games Platform.
+- Worked on the Platform Team where I contributed to the public Watch App Development SDK, SDK Tools, and web-services/apps/standards around them, briding the OSes that run on Fitbit products and the 1st and 3rd party apps.
 - Involved in the hiring process across the company.
 - Part of the Node.JS adoption/onboarding board.
 - Speaker at public events (*Techsylvania June 2019*).
