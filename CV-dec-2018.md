@@ -7,12 +7,12 @@
 
 ## Experience
 
-**Site Engineering Lead**, Microsoft (Romania), *Oct 2019 - Present*
+**Site Engineering Lead**, Microsoft (Romania), *October 2019 - Present*
 
 C#, Azure Services, Typescript, React
 
 - First hire in the Bucharest Azure Engineering Team. In charge of recruiting and building the local team here.
-- Working as an IC on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
+- Working on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
 - Develop and support services for multi-cloud: Microsoft Public, Microsoft Federal.
 - Focused on reusability and extensibility across services, with an accent on quality and standardization.
 
@@ -28,7 +28,7 @@ Node.JS, typescript, python, React.JS, Webpack, Redux, Aurora, Mesos, Jenkins, L
 
 ---
 
-**Software Engineer 2**, Microsoft (Norway), *June 2016 – Nov 2017*
+**Software Engineer 2**, Microsoft (Norway), *June 2016 – November 2017*
 
 C#, typescript, Script#, JsMVVM, flux, react, KnockoutJS, Azure, VS, SD, SignalR, websockets, webpack, VS, VSO
 
@@ -105,22 +105,13 @@ I learned most importantly how to work under pressure and how to work in a team,
 
 ## Education
 
-**BS, Computer Science**, University of Bucharest, Department of Mathematics and Computer Science, *2008 – 2011*
-
-c#, opengl, xna, networking, artificial-intelligence, c++, javascript, oop, machine-learning
-
-developed a software for the university that calculated income for staff according to ranks, hours worked and responsibilities (ruby on rails)
-
-developed a yahoo messenger-like application that helped people communicate (java)
-
-developed a 3d flying game (XNA/c#)
-
+**BS, Computer Science**, University of Bucharest, Department of Mathematics and Computer Science, *October 2008 –  June 2011*
 
 ---
 
-**Master of Computer Science, Software engineering**, University of Bucharest, Department of Mathematics and Computer Science, *2015 – 2017*
+**Master of Computer Science, Software engineering**, University of Bucharest, Department of Mathematics and Computer Science, *October 2015*
+- not finished
 
-agile-project-management, project-management, scaling
 
 
 
