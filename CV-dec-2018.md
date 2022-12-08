@@ -7,7 +7,13 @@
 
 ## Experience
 
-**Site Engineering Lead**, Microsoft (Romania), *October 2019 - Present*
+**Sr. Research Software Engineer**, Google, *February 2022 - Present*
+
+Java, Kotlin, Services
+
+- Undisclosed project.
+
+**Site Engineering Lead**, Microsoft (Romania), *October 2019 - Jan 2022*
 
 C#, Azure Services, Typescript, React
 
