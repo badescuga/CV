@@ -9,9 +9,11 @@
 
 **Sr. Research Software Engineer**, Google, *February 2022 - Present*
 
-Java, Kotlin, Services
+Java, Kotlin, Services (Custom Google Stack)
 
 - Undisclosed project.
+
+---
 
 **Site Engineering Lead**, Microsoft (Romania), *October 2019 - Jan 2022*
 
@@ -21,6 +23,8 @@ C#, Azure Services, Typescript, React
 - Working on multiple platform services and products: Machine Translation Services, Localization, UI Infrastructure, while contributing to other core building blocks: logging, monitoring, metrics.
 - Develop and support services for multi-cloud: Microsoft Public, Microsoft Federal.
 - Focused on reusability and extensibility across services, with an accent on quality and standardization.
+
+---
 
 **Lead Software Engineer**, Fitbit (Romania), *Nov 2017 - Oct 2019*
 
